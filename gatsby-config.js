@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pie Nation`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `David Low`,
+      summary: `who believes that pies are not just for eating.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A galllery of recipes where pies are the ingredient, not the result.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `daviddlow`,
     },
   },
   plugins: [
